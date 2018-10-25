@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="848.8420181405895" y="0.0">Weapon</node>
+    <node x="759.7753514739229" y="256.5">Weapons</node>
+    <node x="544.0" y="511.0">Worker</node>
+    <node x="0.0" y="511.0">Skoop</node>
+    <node x="309.3839455782313" y="1.0">Status</node>
+    <node x="259.9131519274374" y="157.0">Character</node>
+    <node x="468.8914058956916" y="797.0">Kewl</node>
+    <node x="369.0" y="511.0">ShortBoi</node>
+    <node x="186.0" y="500.0">Sankomar</node>
+    <node x="655.0164058956916" y="646.0">Fight</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Kewl" target="Character">
+      <point x="-29.64285714285711" y="-25.5" />
+      <point x="522.2485487528345" y="737.0" />
+      <point x="358.5" y="737.0" />
+      <point x="358.5" y="480.0" />
+      <point x="355.4131519274374" y="480.0" />
+      <point x="0.0" y="136.5" />
+    </edge>
+    <edge source="Worker" target="Character">
+      <point x="-28.5" y="-37.0" />
+      <point x="629.5" y="450.0" />
+      <point x="440.3020408163263" y="450.0" />
+      <point x="84.88888888888891" y="136.5" />
+    </edge>
+    <edge source="Worker" target="Status">
+      <point x="28.5" y="-37.0" />
+      <point x="686.5" y="117.0" />
+      <point x="399.2172789115647" y="117.0" />
+      <point x="40.83333333333337" y="47.5" />
+    </edge>
+    <edge source="Fight" target="Weapons">
+      <point x="60.75" y="-25.5" />
+      <point x="837.2664058956916" y="480.0" />
+      <point x="844.5253514739229" y="480.0" />
+      <point x="-28.25" y="37.0" />
+    </edge>
+    <edge source="Character" target="Status">
+      <point x="-47.75" y="-136.5" />
+      <point x="307.6631519274374" y="137.0" />
+      <point x="350.2172789115647" y="137.0" />
+      <point x="-8.166666666666629" y="47.5" />
+    </edge>
+    <edge source="ShortBoi" target="Status">
+      <point x="51.66666666666663" y="-37.0" />
+      <point x="498.05061224489793" y="127.0" />
+      <point x="382.8839455782313" y="127.0" />
+      <point x="24.5" y="47.5" />
+    </edge>
+    <edge source="Sankomar" target="Character">
+      <point x="54.000000000000114" y="-48.0" />
+      <point x="321.0000000000001" y="480.0" />
+      <point x="334.1909297052151" y="480.0" />
+      <point x="-21.222222222222285" y="136.5" />
+    </edge>
+    <edge source="Kewl" target="Weapon">
+      <point x="77.07142857142856" y="-25.5" />
+      <point x="628.9628344671202" y="777.0" />
+      <point x="1007.2753514739229" y="777.0" />
+      <point x="1007.2753514739229" y="127.0" />
+      <point x="987.4420181405895" y="127.0" />
+      <point x="61.599999999999966" y="48.5" />
+    </edge>
+    <edge source="Kewl" target="Sankomar">
+      <point x="-53.35714285714289" y="-25.5" />
+      <point x="498.5342630385487" y="757.0" />
+      <point x="270.6353741496597" y="757.0" />
+      <point x="270.6353741496597" y="621.0" />
+      <point x="226.5" y="621.0" />
+      <point x="-40.5" y="48.0" />
+    </edge>
+    <edge source="Kewl" target="ShortBoi">
+      <point x="-17.785714285714278" y="-25.5" />
+      <point x="534.1056916099774" y="727.0" />
+      <point x="448.3853741496597" y="727.0" />
+      <point x="448.3853741496597" y="621.0" />
+      <point x="407.75" y="621.0" />
+      <point x="-38.75" y="37.0" />
+    </edge>
+    <edge source="Skoop" target="Status">
+      <point x="-55.33333333333337" y="-37.0" />
+      <point x="27.66666666666663" y="450.0" />
+      <point x="84.04275510204093" y="450.0" />
+      <point x="84.04275510204093" y="117.0" />
+      <point x="317.55061224489793" y="117.0" />
+      <point x="-40.83333333333337" y="47.5" />
+    </edge>
+    <edge source="Weapons" target="Weapon">
+      <point x="0.0" y="-37.0" />
+      <point x="872.7753514739229" y="137.0" />
+      <point x="895.0420181405896" y="137.0" />
+      <point x="-30.80000000000001" y="48.5" />
+    </edge>
+    <edge source="Kewl" target="Worker">
+      <point x="17.785714285714334" y="-25.5" />
+      <point x="569.6771201814059" y="727.0" />
+      <point x="644.5164058956916" y="727.0" />
+      <point x="644.5164058956916" y="621.0" />
+      <point x="658.0" y="621.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="Skoop" target="Character">
+      <point x="55.33333333333337" y="-37.0" />
+      <point x="138.33333333333337" y="470.0" />
+      <point x="291.7464852607708" y="470.0" />
+      <point x="-63.66666666666663" y="136.5" />
+    </edge>
+    <edge source="Worker" target="Weapons">
+      <point x="85.5" y="-37.0" />
+      <point x="743.5" y="480.0" />
+      <point x="788.0253514739229" y="480.0" />
+      <point x="-84.75" y="37.0" />
+    </edge>
+    <edge source="Kewl" target="Weapons">
+      <point x="41.5" y="-25.5" />
+      <point x="593.3914058956916" y="747.0" />
+      <point x="908.5164058956916" y="747.0" />
+      <point x="908.5164058956916" y="480.0" />
+      <point x="901.0253514739229" y="480.0" />
+      <point x="28.25" y="37.0" />
+    </edge>
+    <edge source="Fight" target="Worker">
+      <point x="-60.75" y="-25.5" />
+      <point x="715.7664058956916" y="621.0" />
+      <point x="734.0" y="621.0" />
+      <point x="76.0" y="37.0" />
+    </edge>
+    <edge source="Kewl" target="Skoop">
+      <point x="-65.21428571428572" y="-25.5" />
+      <point x="486.6771201814059" y="767.0" />
+      <point x="98.6353741496597" y="767.0" />
+      <point x="98.6353741496597" y="621.0" />
+      <point x="124.5" y="621.0" />
+      <point x="41.5" y="37.0" />
+    </edge>
+    <edge source="Kewl" target="Fight">
+      <point x="29.64285714285711" y="-25.5" />
+      <point x="581.5342630385487" y="737.0" />
+      <point x="776.5164058956916" y="737.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="Sankomar" target="Status">
+      <point x="-53.999999999999886" y="-48.0" />
+      <point x="212.88394557823142" y="127.0" />
+      <point x="333.8839455782313" y="127.0" />
+      <point x="-24.5" y="47.5" />
+    </edge>
+    <edge source="ShortBoi" target="Character">
+      <point x="0.0" y="-37.0" />
+      <point x="446.5" y="470.0" />
+      <point x="397.85759637188187" y="470.0" />
+      <point x="42.44444444444446" y="136.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8652073732718892" x="516.5" y="424.00000000000006" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

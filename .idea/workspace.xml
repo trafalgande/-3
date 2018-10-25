@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e24caf4-73a1-4bd3-8a64-bfd00d1d64a0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="687363053">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/" value="1" />
+          <entry key="java" value="10" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4991" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4991" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Kewl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="29.933333333333394" y="0.0">Weapon</node>
+                <node x="47.0" y="256.5">Weapons</node>
+                <node x="260.6253514739228" y="511.0">Worker</node>
+                <node x="866.6253514739227" y="511.0">Skoop</node>
+                <node x="632.1580725623583" y="1.0">Status</node>
+                <node x="587.0371995464855" y="157.0">Character</node>
+                <node x="400.59227891156456" y="797.0">Kewl</node>
+                <node x="691.6253514739228" y="511.0">ShortBoi</node>
+                <node x="508.6253514739228" y="500.0">Sankomar</node>
+                <node x="134.84227891156462" y="646.0">Fight</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Kewl" target="Character">
+                  <point x="29.642857142857167" y="-25.5" />
+                  <point x="513.2351360544218" y="737.0" />
+                  <point x="681.1253514739228" y="737.0" />
+                  <point x="681.1253514739228" y="480.0" />
+                  <point x="682.5371995464855" y="480.0" />
+                  <point x="0.0" y="136.5" />
+                </edge>
+                <edge source="Worker" target="Character">
+                  <point x="85.5" y="-37.0" />
+                  <point x="460.1253514739228" y="460.0" />
+                  <point x="618.8705328798188" y="460.0" />
+                  <point x="-63.66666666666663" y="136.5" />
+                </edge>
+                <edge source="Worker" target="Status">
+                  <point x="-28.5" y="-37.0" />
+                  <point x="346.1253514739228" y="117.0" />
+                  <point x="640.3247392290248" y="117.0" />
+                  <point x="-40.83333333333337" y="47.5" />
+                </edge>
+                <edge source="Fight" target="Weapons">
+                  <point x="-60.75" y="-25.5" />
+                  <point x="195.59227891156462" y="480.0" />
+                  <point x="188.25" y="480.0" />
+                  <point x="28.25" y="37.0" />
+                </edge>
+                <edge source="Character" target="Status">
+                  <point x="47.75" y="-136.5" />
+                  <point x="730.2871995464855" y="137.0" />
+                  <point x="689.3247392290248" y="137.0" />
+                  <point x="8.166666666666629" y="47.5" />
+                </edge>
+                <edge source="ShortBoi" target="Status">
+                  <point x="51.66666666666663" y="-37.0" />
+                  <point x="820.8247392290248" y="127.0" />
+                  <point x="705.6580725623583" y="127.0" />
+                  <point x="24.5" y="47.5" />
+                </edge>
+                <edge source="Sankomar" target="Character">
+                  <point x="54.0" y="-48.0" />
+                  <point x="643.6253514739228" y="480.0" />
+                  <point x="661.3149773242632" y="480.0" />
+                  <point x="-21.222222222222285" y="136.5" />
+                </edge>
+                <edge source="Kewl" target="Weapon">
+                  <point x="-65.21428571428572" y="-25.5" />
+                  <point x="418.3779931972789" y="767.0" />
+                  <point x="36.5" y="767.0" />
+                  <point x="36.5" y="137.0" />
+                  <point x="76.13333333333338" y="137.0" />
+                  <point x="-30.80000000000001" y="48.5" />
+                </edge>
+                <edge source="Kewl" target="Sankomar">
+                  <point x="17.785714285714334" y="-25.5" />
+                  <point x="501.3779931972789" y="727.0" />
+                  <point x="586.0649773242632" y="727.0" />
+                  <point x="586.0649773242632" y="621.0" />
+                  <point x="630.1253514739228" y="621.0" />
+                  <point x="40.5" y="48.0" />
+                </edge>
+                <edge source="Kewl" target="ShortBoi">
+                  <point x="53.35714285714289" y="-25.5" />
+                  <point x="536.9494217687075" y="757.0" />
+                  <point x="767.3149773242632" y="757.0" />
+                  <point x="767.3149773242632" y="621.0" />
+                  <point x="807.8753514739228" y="621.0" />
+                  <point x="38.75" y="37.0" />
+                </edge>
+                <edge source="Skoop" target="Status">
+                  <point x="55.33333333333337" y="-37.0" />
+                  <point x="1004.9586848072561" y="450.0" />
+                  <point x="948.6575963718818" y="450.0" />
+                  <point x="948.6575963718818" y="117.0" />
+                  <point x="721.9914058956915" y="117.0" />
+                  <point x="40.83333333333337" y="47.5" />
+                </edge>
+                <edge source="Weapons" target="Weapon">
+                  <point x="0.0" y="-37.0" />
+                  <point x="160.0" y="137.0" />
+                  <point x="137.7333333333334" y="137.0" />
+                  <point x="30.799999999999997" y="48.5" />
+                </edge>
+                <edge source="Kewl" target="Worker">
+                  <point x="-5.928571428571445" y="-25.5" />
+                  <point x="477.6637074829931" y="717.0" />
+                  <point x="411.56497732426317" y="717.0" />
+                  <point x="411.56497732426317" y="621.0" />
+                  <point x="450.6253514739228" y="621.0" />
+                  <point x="76.0" y="37.0" />
+                </edge>
+                <edge source="Skoop" target="Character">
+                  <point x="0.0" y="-37.0" />
+                  <point x="949.6253514739227" y="460.0" />
+                  <point x="767.4260884353744" y="460.0" />
+                  <point x="84.88888888888891" y="136.5" />
+                </edge>
+                <edge source="Worker" target="Weapons">
+                  <point x="-85.5" y="-37.0" />
+                  <point x="289.1253514739228" y="480.0" />
+                  <point x="244.75" y="480.0" />
+                  <point x="84.75" y="37.0" />
+                </edge>
+                <edge source="Kewl" target="Weapons">
+                  <point x="-41.5" y="-25.5" />
+                  <point x="442.09227891156456" y="747.0" />
+                  <point x="124.34227891156462" y="747.0" />
+                  <point x="124.34227891156462" y="480.0" />
+                  <point x="131.75" y="480.0" />
+                  <point x="-28.25" y="37.0" />
+                </edge>
+                <edge source="Fight" target="Worker">
+                  <point x="60.75" y="-25.5" />
+                  <point x="317.0922789115646" y="621.0" />
+                  <point x="298.6253514739228" y="621.0" />
+                  <point x="-76.0" y="37.0" />
+                </edge>
+                <edge source="Kewl" target="Fight">
+                  <point x="-29.64285714285711" y="-25.5" />
+                  <point x="453.94942176870745" y="737.0" />
+                  <point x="256.3422789115646" y="737.0" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="Kewl" target="Skoop">
+                  <point x="77.07142857142856" y="-25.5" />
+                  <point x="560.6637074829931" y="777.0" />
+                  <point x="945.0649773242632" y="777.0" />
+                  <point x="945.0649773242632" y="621.0" />
+                  <point x="991.1253514739227" y="621.0" />
+                  <point x="41.5" y="37.0" />
+                </edge>
+                <edge source="Sankomar" target="Status">
+                  <point x="-54.0" y="-48.0" />
+                  <point x="535.6580725623583" y="127.0" />
+                  <point x="656.6580725623583" y="127.0" />
+                  <point x="-24.5" y="47.5" />
+                </edge>
+                <edge source="ShortBoi" target="Character">
+                  <point x="0.0" y="-37.0" />
+                  <point x="769.1253514739228" y="480.0" />
+                  <point x="724.9816439909299" y="480.0" />
+                  <point x="42.44444444444446" y="136.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.8652073732718893" x="511.0" y="424.0" />
+              <SelectedNodes>
+                <node>Kewl</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+                <Category>Constructors</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Weapons.java" />
+        <option value="$PROJECT_DIR$/src/Status.java" />
+        <option value="$PROJECT_DIR$/src/Type.java" />
+        <option value="$PROJECT_DIR$/src/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/Character.java" />
+        <option value="$PROJECT_DIR$/src/Kewl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-18" />
+    <option name="width" value="1944" />
+    <option name="height" value="2088" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Лаба #3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Лаба #3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Лаба #3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Лаба #3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540488196586" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Kewl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kewl" />
+      <module name="Лаба #3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Kewl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e24caf4-73a1-4bd3-8a64-bfd00d1d64a0" name="Default Changelist" comment="" />
+      <created>1539702546001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539702546001</updated>
+      <workItem from="1539702550172" duration="11694000" />
+      <workItem from="1540132949637" duration="781000" />
+      <workItem from="1540486236241" duration="38000" />
+      <workItem from="1540486359187" duration="1749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14262000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25856885" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917705" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32917705" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/task-12361.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/Status.java" />
+    <entry file="file://$PROJECT_DIR$/src/Weapons.java" />
+    <entry file="file://$PROJECT_DIR$/src/Type.java" />
+    <entry file="file://$PROJECT_DIR$/src/Kewl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="29.933333333333394" y="0.0">Weapon</node>
+            <node x="47.0" y="256.5">Weapons</node>
+            <node x="260.6253514739228" y="511.0">Worker</node>
+            <node x="866.6253514739227" y="511.0">Skoop</node>
+            <node x="632.1580725623583" y="1.0">Status</node>
+            <node x="587.0371995464855" y="157.0">Character</node>
+            <node x="400.59227891156456" y="797.0">Kewl</node>
+            <node x="691.6253514739228" y="511.0">ShortBoi</node>
+            <node x="508.6253514739228" y="500.0">Sankomar</node>
+            <node x="134.84227891156462" y="646.0">Fight</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Kewl" target="Character">
+              <point x="29.642857142857167" y="-25.5" />
+              <point x="513.2351360544218" y="737.0" />
+              <point x="681.1253514739228" y="737.0" />
+              <point x="681.1253514739228" y="480.0" />
+              <point x="682.5371995464855" y="480.0" />
+              <point x="0.0" y="136.5" />
+            </edge>
+            <edge source="Worker" target="Character">
+              <point x="85.5" y="-37.0" />
+              <point x="460.1253514739228" y="460.0" />
+              <point x="618.8705328798188" y="460.0" />
+              <point x="-63.66666666666663" y="136.5" />
+            </edge>
+            <edge source="Worker" target="Status">
+              <point x="-28.5" y="-37.0" />
+              <point x="346.1253514739228" y="117.0" />
+              <point x="640.3247392290248" y="117.0" />
+              <point x="-40.83333333333337" y="47.5" />
+            </edge>
+            <edge source="Fight" target="Weapons">
+              <point x="-60.75" y="-25.5" />
+              <point x="195.59227891156462" y="480.0" />
+              <point x="188.25" y="480.0" />
+              <point x="28.25" y="37.0" />
+            </edge>
+            <edge source="Character" target="Status">
+              <point x="47.75" y="-136.5" />
+              <point x="730.2871995464855" y="137.0" />
+              <point x="689.3247392290248" y="137.0" />
+              <point x="8.166666666666629" y="47.5" />
+            </edge>
+            <edge source="ShortBoi" target="Status">
+              <point x="51.66666666666663" y="-37.0" />
+              <point x="820.8247392290248" y="127.0" />
+              <point x="705.6580725623583" y="127.0" />
+              <point x="24.5" y="47.5" />
+            </edge>
+            <edge source="Sankomar" target="Character">
+              <point x="54.0" y="-48.0" />
+              <point x="643.6253514739228" y="480.0" />
+              <point x="661.3149773242632" y="480.0" />
+              <point x="-21.222222222222285" y="136.5" />
+            </edge>
+            <edge source="Kewl" target="Weapon">
+              <point x="-65.21428571428572" y="-25.5" />
+              <point x="418.3779931972789" y="767.0" />
+              <point x="36.5" y="767.0" />
+              <point x="36.5" y="137.0" />
+              <point x="76.13333333333338" y="137.0" />
+              <point x="-30.80000000000001" y="48.5" />
+            </edge>
+            <edge source="Kewl" target="Sankomar">
+              <point x="17.785714285714334" y="-25.5" />
+              <point x="501.3779931972789" y="727.0" />
+              <point x="586.0649773242632" y="727.0" />
+              <point x="586.0649773242632" y="621.0" />
+              <point x="630.1253514739228" y="621.0" />
+              <point x="40.5" y="48.0" />
+            </edge>
+            <edge source="Kewl" target="ShortBoi">
+              <point x="53.35714285714289" y="-25.5" />
+              <point x="536.9494217687075" y="757.0" />
+              <point x="767.3149773242632" y="757.0" />
+              <point x="767.3149773242632" y="621.0" />
+              <point x="807.8753514739228" y="621.0" />
+              <point x="38.75" y="37.0" />
+            </edge>
+            <edge source="Skoop" target="Status">
+              <point x="55.33333333333337" y="-37.0" />
+              <point x="1004.9586848072561" y="450.0" />
+              <point x="948.6575963718818" y="450.0" />
+              <point x="948.6575963718818" y="117.0" />
+              <point x="721.9914058956915" y="117.0" />
+              <point x="40.83333333333337" y="47.5" />
+            </edge>
+            <edge source="Weapons" target="Weapon">
+              <point x="0.0" y="-37.0" />
+              <point x="160.0" y="137.0" />
+              <point x="137.7333333333334" y="137.0" />
+              <point x="30.799999999999997" y="48.5" />
+            </edge>
+            <edge source="Kewl" target="Worker">
+              <point x="-5.928571428571445" y="-25.5" />
+              <point x="477.6637074829931" y="717.0" />
+              <point x="411.56497732426317" y="717.0" />
+              <point x="411.56497732426317" y="621.0" />
+              <point x="450.6253514739228" y="621.0" />
+              <point x="76.0" y="37.0" />
+            </edge>
+            <edge source="Skoop" target="Character">
+              <point x="0.0" y="-37.0" />
+              <point x="949.6253514739227" y="460.0" />
+              <point x="767.4260884353744" y="460.0" />
+              <point x="84.88888888888891" y="136.5" />
+            </edge>
+            <edge source="Worker" target="Weapons">
+              <point x="-85.5" y="-37.0" />
+              <point x="289.1253514739228" y="480.0" />
+              <point x="244.75" y="480.0" />
+              <point x="84.75" y="37.0" />
+            </edge>
+            <edge source="Kewl" target="Weapons">
+              <point x="-41.5" y="-25.5" />
+              <point x="442.09227891156456" y="747.0" />
+              <point x="124.34227891156462" y="747.0" />
+              <point x="124.34227891156462" y="480.0" />
+              <point x="131.75" y="480.0" />
+              <point x="-28.25" y="37.0" />
+            </edge>
+            <edge source="Fight" target="Worker">
+              <point x="60.75" y="-25.5" />
+              <point x="317.0922789115646" y="621.0" />
+              <point x="298.6253514739228" y="621.0" />
+              <point x="-76.0" y="37.0" />
+            </edge>
+            <edge source="Kewl" target="Fight">
+              <point x="-29.64285714285711" y="-25.5" />
+              <point x="453.94942176870745" y="737.0" />
+              <point x="256.3422789115646" y="737.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="Kewl" target="Skoop">
+              <point x="77.07142857142856" y="-25.5" />
+              <point x="560.6637074829931" y="777.0" />
+              <point x="945.0649773242632" y="777.0" />
+              <point x="945.0649773242632" y="621.0" />
+              <point x="991.1253514739227" y="621.0" />
+              <point x="41.5" y="37.0" />
+            </edge>
+            <edge source="Sankomar" target="Status">
+              <point x="-54.0" y="-48.0" />
+              <point x="535.6580725623583" y="127.0" />
+              <point x="656.6580725623583" y="127.0" />
+              <point x="-24.5" y="47.5" />
+            </edge>
+            <edge source="ShortBoi" target="Character">
+              <point x="0.0" y="-37.0" />
+              <point x="769.1253514739228" y="480.0" />
+              <point x="724.9816439909299" y="480.0" />
+              <point x="42.44444444444446" y="136.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8652073732718893" x="511.0" y="424.0" />
+          <SelectedNodes>
+            <node>Kewl</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Лаба #3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
